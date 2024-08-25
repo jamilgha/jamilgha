@@ -1,9 +1,15 @@
 - 🔭 I’m currently working on ...
-    - Hospital managment system
-    - Hotel managment system
-    - school  managment system
-    - restaurant managment system
-    - personal Blog
+- - [x] Hospital managment system
+- [ ] personal Blog
+- [ ] Hotel managment system :tada:
+- [ ] school  managment system :tada:
+- [ ] restaurant managment system :tada:
+- [ ] Hotel managment system :tada:
+    - 
+    - 
+    - 
+    - 
+    - 
     
 
 <details>
